@@ -1,0 +1,52 @@
+﻿Hello Jarvis
+Hello
+Goodbye Jarvis
+Goodbye
+Go to sleep Jarvis
+Go to sleep
+What time is it
+What day is it
+Hows the weather
+Run Google Chrome
+Run iTunes
+Run C Cleaner
+Play SKyrim
+Play Fallout
+Play MineCraft
+Play Dishonored
+Skyrim
+Fallout
+Minecraft
+Dishonored
+Run Facebook
+Run Google
+Run Yahoo
+Run Pandora
+Run The Pirate Bay
+Run Youtube
+Show Commands
+Hide Commands
+Out of the way Jarvis
+Out of the way
+Come back Jarvis
+Come back
+Open disk drive
+Monitor Off
+Shutdown in t minus
+Restart in t minus
+Log Off in t minus
+Abort
+Speed up
+Slow down
+Play a Game
+What games are available
+Which games are available
+Give me a list of games
+Jarvis
+Yes
+Good
+Im good
+How are you
+How are you doing
+How are you today
+Hows life
