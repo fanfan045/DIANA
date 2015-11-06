@@ -1,0 +1,51 @@
+﻿Desactivation
+Mode veille Diana
+Mode veille
+Quel heure est-il
+Il est quelle heure
+Quel jour sommes nous
+On est quel jour
+Quel jour est il
+Quel temps fait il
+Il fait quel temps
+Il fait beau dehors
+Ouvre Firefox
+Ouvre Itunes/Spotify
+Ouvre Ccleaner
+Ouvre Jeu1
+Ouvre Jeu2
+Ouvre Jeu3
+Ouvre Jeu4
+Jeu1
+Jeu2
+Jeu3
+Jeu4
+Ouvre Facebook
+Ouvre google
+Ouvre twitch
+Ouvre nosteam
+Ouvre youtube
+Montre les commandes
+Ferme les commandes
+Eecute toi en tache de fond
+tache de fond
+Va en arriere plan
+Arriere plan
+Reviens Diana
+Reviens
+Eteinds l'ecran
+Redemarre
+Stop
+Annule
+Plus vite
+Doucement
+Ouvre un jeu
+Quel jeu est disponible
+Quels jeux sont disponibles
+Donne moi une liste de jeux
+Diana
+Oui
+Bien?
+Ca va?
+Comment ca va?
+La forme?
